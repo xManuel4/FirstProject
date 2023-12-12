@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.blue-background {
+  background-color: #1f2937;
+}
+header {
+  display: flex;
+  justify-content: space-around;
+}
